@@ -1,0 +1,12 @@
+[project]
+name = "problematic-internet-use"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pandas>=2.2.3",
+    "fastparquet>=2024.5.0",
+    "xgboost>=2.1.1",
+    "scikit-learn>=1.5.2",
+]
